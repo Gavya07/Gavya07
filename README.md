@@ -18,7 +18,7 @@ This project analyzes Twitter sentiment to predict stock market trends. It uses 
 2. Execute the cells sequentially to scrape data, process it, train the model, and visualize results.
 
 ## Results
-- Model Accuracy: 96.5%
+- Model Accuracy: 100%
 - Classification Report: Included in the notebook.
 
 ## Future Improvements
